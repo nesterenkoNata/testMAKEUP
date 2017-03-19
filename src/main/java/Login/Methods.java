@@ -34,5 +34,6 @@ public class Methods {
         String A = emptyP.getText();
         return A;
     }
-}
+
+  }
 

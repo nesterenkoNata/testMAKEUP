@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test>
+
+
+    <User id="1">
+        <login>   ushakova.n.o@gmail.com</login>
+        <password>367521</password>
+    </User>
+
+    <User id="2">
+        <login>ushakova.n.o@gmail.com</login>
+        <password>  367521</password>
+    </User>
+
+    <User id="3">
+        <login>ushakova.n.o@gmail.com  </login>
+        <password>367521  </password>
+    </User>
+
+    <User id="4">
+        <login>uShakova.n.o@gmail.Com  </login>
+        <password>367521  </password>
+    </User>
+
+    <User id="5">
+        <login>%%%</login>
+        <password>%%%</password>
+    </User>
+
+    <User id="6">
+        <login></login>
+        <password></password>
+    </User>
+
+    <User id="7">
+        <login></login>
+        <password>123</password>
+    </User>
+
+    <User id="8">
+        <login>1</login>
+        <password></password>
+    </User>
+
+    <User id="9">
+        <login>                                                         11 </login>
+        <password>5555555555555555555555555555555555555555555555555555555</password>
+    </User>
+
+    <User id="9">
+        <login>тест.юа</login>
+        <password>тест111</password>
+    </User>
+
+  </Test>
